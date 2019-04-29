@@ -95,3 +95,10 @@ console.log(urlParams.getAll('action')); // ["edit"]
 console.log(urlParams.toString()); // "?post=1234&action=edit"
 console.log(urlParams.append('active', '1')); // "?post=1234&action=edit&active=1"
 ```
+----
+
+Array of numbers to strings
+
+```js
+const arr = [1,2,3,4,5].map(String);  // → ["1","2","3","4","5"]
+```
