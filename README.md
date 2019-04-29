@@ -3,11 +3,13 @@
 ## Javascript
 **Array** - https://github.com/stevenpersia/ultimate-reminder/blob/master/javascript/array.md
 
+**Condition** - Soon
+
 **Object** - Soon
 
-**Variable** - Soon
+**Tricks** - https://github.com/stevenpersia/ultimate-reminder/blob/master/javascript/tricks.md
 
-**Condition** - Soon
+**Variable** - Soon
 
 ## React
 
