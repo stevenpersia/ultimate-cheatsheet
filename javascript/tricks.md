@@ -100,5 +100,6 @@ console.log(urlParams.append('active', '1')); // "?post=1234&action=edit&active=
 Array of numbers to strings
 
 ```js
-const arr = [1,2,3,4,5].map(String);  // → ["1","2","3","4","5"]
+const arr = [1,2,3,4,5].map(String);
+arr  // → ["1","2","3","4","5"]
 ```
