@@ -50,7 +50,7 @@ Adding items (immutable)
 
 ```js
 const arr = ["a","b","c","d","e"]
-arr.concat([X,Y])                   // → [_,_,_,_,_,X,Y]
+arr.concat([X,Y])                   // → ["a","b","c","d","e",X,Y]
 ```
 ----
 ```push()``` ```unshift()``` ```splice()```
@@ -58,9 +58,9 @@ arr.concat([X,Y])                   // → [_,_,_,_,_,X,Y]
 Adding items (mutative)
 ```js
 const arr = ["a","b","c","d","e"]
-arr.push(X)                         // → arr = [_,_,_,_,_,X]
-arr.unshift(X)                      // → arr = [X,_,_,_,_,_]
-arr.splice(2, 0, X)                 // → arr = [_,_,X,_,_,_]
+arr.push(X)                         // → arr = ["a","b","c","d","e",X]
+arr.unshift(X)                      // → arr = [X,"a","b","c","d","e"]
+arr.splice(2, 0, X)                 // → arr = ["a","b",X,"c","d","e"]
 ```
 ----
 ```pop()``` ```shift()``` ```splice()```
