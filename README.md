@@ -1,5 +1,9 @@
 # Ultimate reminder
 
+## CSS
+
+Soon
+
 ## Javascript
 **Array** - https://github.com/stevenpersia/ultimate-reminder/blob/master/javascript/array.md
 
@@ -21,6 +25,6 @@
 
 Soon
 
-## CSS
+## Typescript
 
-Soon
+**Static Types** - https://github.com/stevenpersia/ultimate-reminder/blob/master/typescript/static-types.md
