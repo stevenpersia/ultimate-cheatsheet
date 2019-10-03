@@ -13,7 +13,7 @@ var age = 12;
 //condition 
 if (age>= 0 && age<= 14) {
     //if condition is met
-    AgeCategories = "Children"
+    AgeCategories = "Children";
 }
 ```
 ----
@@ -26,10 +26,10 @@ var age = 22;
 //condition 
 if (age>= 0 && age<= 14) {
     
-    AgeCategories = "Children"
+    AgeCategories = "Children";
 } else {
     //if condition is not met
-    AgeCategories = "Not a Child anymore."
+    AgeCategories = "Not a Child anymore.";
 }
 ```
 ----
@@ -42,14 +42,14 @@ var age = 22;
 //condition 
 if (age>= 0 && age<= 14) {
     
-    AgeCategories = "Children"
+    AgeCategories = "Children";
 } else if (age>= 15 && age<= 24) {
     //if 2nd condition is met
-    AgeCategories = "Youth"
+    AgeCategories = "Youth";
 
 } else {
 
-    AgeCategories = "Not a Child or Youth anymore."
+    AgeCategories = "Not a Child or Youth anymore.";
 }
 ```
 ----
