@@ -1,7 +1,7 @@
 # Box Model
 
 ## Basics
-```js
+```
 1. Content
 	* The content of the box, where text and images appear
 2. Padding
@@ -15,7 +15,7 @@
 
 Example
 
-```js
+```css
 div {
   width: 300px;
   border: 15px solid green;
