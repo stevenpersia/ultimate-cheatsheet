@@ -23,3 +23,14 @@
 - bottom left
 - bottom center
 - bottom right
+
+### background size 
+- length
+- auto
+- cover
+- contain
+### background repeat
+- repeat
+- repeat-x
+- repeat-y 
+- no-cover
