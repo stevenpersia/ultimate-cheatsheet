@@ -11,7 +11,7 @@ Soon
 
 **Function** - Soon
 
-**Object** - Soon
+**Object** - https://github.com/stevenpersia/ultimate-reminder/blob/master/javascript/object.md
 
 **String** - https://github.com/stevenpersia/ultimate-cheatsheet/blob/master/javascript/string.md
 
