@@ -34,3 +34,7 @@
 - repeat-x
 - repeat-y 
 - no-cover
+### background-attachment
+- scroll 
+- fixed
+- local
