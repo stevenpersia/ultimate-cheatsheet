@@ -5,6 +5,7 @@
 Soon
 
 ## Javascript
+
 **Array** - https://github.com/stevenpersia/ultimate-reminder/blob/master/javascript/array.md
 
 **Condition** - Soon
@@ -28,3 +29,5 @@ Soon
 ## Typescript
 
 **Static Types** - https://github.com/stevenpersia/ultimate-reminder/blob/master/typescript/static-types.md
+
+**Interfaces** - https://github.com/stevenpersia/ultimate-reminder/blob/master/typescript/interfaces.md
