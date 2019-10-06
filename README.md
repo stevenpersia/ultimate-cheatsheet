@@ -30,4 +30,6 @@ Soon
 
 **Static Types** - https://github.com/stevenpersia/ultimate-reminder/blob/master/typescript/static-types.md
 
+**Utility Types** - https://github.com/stevenpersia/ultimate-reminder/blob/master/typescript/utility-types.md
+
 **Interfaces** - https://github.com/stevenpersia/ultimate-reminder/blob/master/typescript/interfaces.md
